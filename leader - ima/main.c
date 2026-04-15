@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "login.h"
-#include "alat.h"
-#include "pinjam.h"
 
 int main(int argc, char *argv[]) {
     int role;
