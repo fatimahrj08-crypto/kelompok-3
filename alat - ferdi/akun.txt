@@ -1,6 +1,0 @@
-admin 123 admin
-wafa 111 user
-rasya 222 user
-alif 333 user
-ferdi 444 user
-ima 555 admin
